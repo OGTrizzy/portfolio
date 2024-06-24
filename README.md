@@ -1,4 +1,4 @@
-# Your project title
+# Portfolio
 
 ![portfolio](https://github.com/OGTrizzy/portfolio/assets/142795941/1874cd6f-ad37-4488-a22d-70bf88a4f233)
 
